@@ -1,4 +1,5 @@
 # Travel-SV
+OJO: Recuerda instalar todas las dependencias con el comando 'npm expo install'
 
 Proyecto cátedra DPS104<br>
 Integrantes:<br>
